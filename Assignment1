@@ -1,0 +1,6 @@
+Using some flavor of JUnit (which should be supported by your IDE of choice!), 
+generate tests for each of the methods you have implemented. 
+Show that the methods work in both the positive and negative cases. 
+What are the conditions where some of these methods should fail? Be sure to test that they act appropriately. 
+These should be separate test methods. 
+Follow the "Unit Test Best Practices" guidelines from the notes.
